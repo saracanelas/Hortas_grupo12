@@ -20,7 +20,5 @@ public class Horta {
 	public String getLocal() {
 		return local;
 	}
-	
-	
 
 }

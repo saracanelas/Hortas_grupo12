@@ -35,5 +35,10 @@ public class Ola {
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
 	}
+
+	@Override
+	public String toString() {
+		return "Ola [id=" + id + ", tipo=" + tipo + "]";
+	}
 	
 }

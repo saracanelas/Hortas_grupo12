@@ -14,6 +14,14 @@ public class GerirHorta {
 		super();
 		this.hortas = hortas;
 	}
+
+	public ArrayList<Horta> getHortas() {
+		return hortas;
+	}
+
+	public void setHortas(ArrayList<Horta> hortas) {
+		this.hortas = hortas;
+	}
 	
 	
 

@@ -12,10 +12,10 @@ public class Teste {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		Horta a = new Horta(nome);
+	}
 		
-		public void imprimirDetalhes(String nome) {
-			System.out.println(nome);
-		}
+		
 		
 		
 

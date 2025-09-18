@@ -40,5 +40,10 @@ public class Ola {
 	public String toString() {
 		return "Ola [id=" + id + ", tipo=" + tipo + "]";
 	}
-	
+	public void imprimirId(int id) {
+		System.out.println(id);
+	}
+	public void ola(int id) {
+		System.out.println();
+	}
 }

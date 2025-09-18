@@ -10,7 +10,6 @@ public class Horta {
 	private String nome;
 	private String local;
 	
-	
 	public String getNome() {
 		return nome;
 	}
@@ -21,4 +20,7 @@ public class Horta {
 		return local;
 	}
 
+	public void imprimirDetalhes() {
+		System.out.println("O nome da horta é" + nome);
+	}
 }

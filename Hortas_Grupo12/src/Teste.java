@@ -17,6 +17,9 @@ public class Teste {
 			System.out.println(nome);
 		}
 		
+		public void imprimirOla() {
+		}
+		
 
 	}
 
